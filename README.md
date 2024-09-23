@@ -1,0 +1,1 @@
+# plugins-fully-background-manager
